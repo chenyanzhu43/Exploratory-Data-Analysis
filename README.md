@@ -19,11 +19,19 @@ Term: Fall 2019
 Follwing [suggestions](https://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](https://nicercode.github.io/about/#Team) (@richfitz). This folder is organized as follows.
 
 
+{::options parse_block_html="true" /}
+<div class="panel-body">
 proj/
 ├── lib/
 ├── data/
 ├── doc/
 ├── figs/
 └── output/
+<style>
+.alert-info {
+  color: rgb(49,112,143) !important;
+}
+</style>
+
 
 Please see each subfolder for a README file.
